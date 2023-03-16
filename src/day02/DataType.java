@@ -2,7 +2,8 @@ package day02;
 
 public class DataType {
 
-    //double > float > long > int > short > byte > char
+    //double > float > long > int > short > byte
+    // int > char
     // boolean true / false
     //char 字符
     byte a;
