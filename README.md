@@ -3,7 +3,7 @@
 https://gitee.com/ShadowGenie/Study.git
 
 ## day01
-**HelloWorld
+HelloWorld
 
 ## day02
-**Var DataType
+Var DataType
