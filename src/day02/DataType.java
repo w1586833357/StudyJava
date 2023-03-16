@@ -4,6 +4,7 @@ public class DataType {
 
     //double > float > long > int > short > byte > char
     // boolean true / false
+    //char 字符
     byte a;
     int b;
     short c;
