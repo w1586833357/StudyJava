@@ -6,7 +6,11 @@ public class TestType {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+<<<<<<< HEAD
         DataType dataType = new DataType();
+=======
+        Type type = new Type();
+>>>>>>> 872657cc4c422fd09c4f55586f12da247b8af0e2
 
         System.out.println("Byte类型");
 

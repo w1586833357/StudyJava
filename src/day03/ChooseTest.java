@@ -35,10 +35,13 @@ public class ChooseTest {
         }
 
         scanner.close();
+<<<<<<< HEAD
         
 //        if (boolean){}
 //        if (boolean){}else{}
 //        if (boolean){}else if(boolean){}
 //        if (boolean){}else if(boolean){}else{}
+=======
+>>>>>>> 872657cc4c422fd09c4f55586f12da247b8af0e2
     }
 }
