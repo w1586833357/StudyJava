@@ -6,7 +6,7 @@ public class TestType {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        DataType type = new DataType();
+        DataType dataType = new DataType();
 
         System.out.println("Byte类型");
 
