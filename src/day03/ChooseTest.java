@@ -35,5 +35,10 @@ public class ChooseTest {
         }
 
         scanner.close();
+        
+//        if (boolean){}
+//        if (boolean){}else{}
+//        if (boolean){}else if(boolean){}
+//        if (boolean){}else if(boolean){}else{}
     }
 }
